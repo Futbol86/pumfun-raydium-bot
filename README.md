@@ -1,7 +1,7 @@
 # pumfun-raydium-bot
-pumpund-raydium-bot
+## Some feature of bot:
 
-Some feature of bot:
+
 1- Bot display market data of any token address
 
 ![image](https://github.com/user-attachments/assets/20a7a777-47f1-4da7-b793-5ae2219ceb9d)
